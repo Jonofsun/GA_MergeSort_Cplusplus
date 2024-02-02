@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
-
+/*
+Jonathan Reed
+1/31/24
+*/
 void MergeSortArray(std::vector<int>& arr);
 void Merge(std::vector<int>& arr, std::vector<int>& leftSubarray, std::vector<int>& rightSubarray);
 void PrintArray(const std::vector<int>& arr);
